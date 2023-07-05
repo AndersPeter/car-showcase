@@ -1,3 +1,10 @@
+Created from tutorial: Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
+By: JavaScript Mastery
+Link: https://youtu.be/pUNSHPyVryU
+
+Most features work - some trouble with api.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
